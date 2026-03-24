@@ -9,7 +9,7 @@
     "ag-grid-community": "^21.0.1",
     "ag-grid-react": "^21.0.1",
     "animate.css": "^4.1.1",
-    "axios": "^0.21.1",
+    "axios": "^23.12.28",
     "bootstrap": "^4.3.1",
     "cross-env": "^7.0.3",
     "framer-motion": "^10.16.4",
